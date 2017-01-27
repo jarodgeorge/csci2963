@@ -15,7 +15,7 @@ This chapter taught me how powerful technology and the Internet can be, and how 
 ![Photo of blocky](screenshots/blocky.jpg)
 ![Photo of regex](screenshots/regex7.jpg)
 ![Photo of squares](screenshots/squares.jpg)
-
+![photo of square4](screenshots/squares4.jpg)
 
 Reflection:
 
