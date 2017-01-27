@@ -10,8 +10,8 @@ Chapter 3 reflections.
 This chapter taught me how powerful technology and the Internet can be, and how much it can “damage” real life companies enough that they would sue. Often times it can feel like you are doing nothing wrong even though there is some “legal” law somewhere that would say otherwise. It's kind of like speeding on the highway, most people do it, but only some people get caught. Jesse was operating in a dangerous space at the wrong time when the RIAA was trying to come down hard on piracy and make an example of people. The RIAA also probably were behind the times of technology compared to the college students that were sued. I think you need to be aware of your surroundings and any legal issues that could come up when you are working on the Internet. Overall I think Jesse was wronged, and this can be seen by his reluctance to say he did anything wrong. It was impressive that these students managed to create a search engine on their own and it brings up the question who is responsible for illegal acts done on the internet  – the owner of the website/search engine, or the user? Both can point a finger at the other saying they didn't know this was possible/illegal but in the end people someone has to take a blame, but not fifteen million dollars worth of blame.
 
 
-![Photo of tree man](sreenshots/tree.jpg)
-![Photo of tree ](sreenshots/treeInAction.jpg)
+![Photo of tree man](screenshots/tree.jpg)
+![Photo of tree ](screenshots/treeInAction.jpg)
 ![Photo of blocky](screenshots/blocky.jpg)
 ![Photo of regex](screenshots/regex7.jpg)
 ![Photo of squares](screenshots/squares.jpg)
