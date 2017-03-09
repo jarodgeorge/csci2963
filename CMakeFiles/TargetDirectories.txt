@@ -1,0 +1,2 @@
+/home/jarod/csci2963/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/jarod/csci2963/CMakeFiles/Tutorial.dir

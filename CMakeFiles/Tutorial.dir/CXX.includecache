@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jarod/csci2963/lab4/tutorial.cxx
+TutorialConfig.h
+/home/jarod/csci2963/lab4/TutorialConfig.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+MathFunctions.h
+/home/jarod/csci2963/lab4/MathFunctions.h
+
+TutorialConfig.h
+
+lab4/MathFunctions/MathFunctions.h
+
