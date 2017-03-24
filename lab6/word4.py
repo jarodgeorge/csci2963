@@ -69,7 +69,8 @@ if __name__ == '__main__':
     print("%d connected components" % number_connected_components(G))
 
     for (source,target) in [('cold','warm'),
-                            ('love','hate')]:
+                            ('love','hate'),
+                            ('slim','none')]:
         print("Shortest path between %s and %s is"%(source,target))
         try:
             sp=shortest_path(G, source, target)
