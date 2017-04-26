@@ -1,3 +1,5 @@
+Jarod George
+
 Q1:
 
 Part 2:
